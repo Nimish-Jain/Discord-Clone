@@ -16,6 +16,8 @@
     "react-scripts": "4.0.0"
   },
   "scripts": {
+    "predeploy": "npm run build",     
+    "deploy": "firebase build",
     "start": "react-scripts start",
     "build": "react-scripts build",
     "test": "react-scripts test",
