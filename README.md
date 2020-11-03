@@ -1,4 +1,4 @@
-#Discord-Clone using React & Redux
+# Discord-Clone using React & Redux
 
 This is a cloned version of one of the most popular chat applications in the world, Discord. It is an exact clone of Discord, same UI, Google Sign In, and everything.
 Functionality is also just like the original part. We get to do the following things :
@@ -7,7 +7,7 @@ Functionality is also just like the original part. We get to do the following th
 3. Click on any server and Chat with people real-time.
 4. Sign Out with one click.
 
-##Tech-Stack
+## Tech-Stack
 
 1. HTML
 2. CSS
