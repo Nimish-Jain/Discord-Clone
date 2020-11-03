@@ -1,68 +1,36 @@
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app), using the [Redux](https://redux.js.org/) and [Redux Toolkit](https://redux-toolkit.js.org/) template.
+#Discord-Clone using React & Redux
 
-## Available Scripts
+This is a cloned version of one of the most popular chat applications in the world, Discord. It is an exact clone of Discord, same UI, Google Sign In, and everything.
+Functionality is also just like the original part. We get to do the following things :
+  1. Sign In using Google Authentication with a single click.
+  2. Create Servers
+  3. Click on any server and Chat with people real-time.
+  4. Sign Out with one click.
 
-In the project directory, you can run:
+##Tech-Stack
 
-### `yarn start`
+  1. HTML
+  2. CSS
+  3. Material UI
+  4. ES6,ES7 Javascript
+  5. React JS
+  6. Redux
+  7. Firebase & Store
+  
+The Database is managed using Firestore, & the website is hosted using Firebase. You can go ahead and try it from the following link : https://discord-clone-9b8fd.firebaseapp.com
 
-Runs the app in the development mode.<br />
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+Here are some Screenshots from the live website
 
-The page will reload if you make edits.<br />
-You will also see any lint errors in the console.
+![Screenshot_1](Screenshots/Screenshot 1.png)
 
-### `yarn test`
+![Screenshot_2](Screenshots/Screenshot 2.png)
 
-Launches the test runner in the interactive watch mode.<br />
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+![Screenshot_3](Screenshots/Screenshot 3.png)
 
-### `yarn build`
+![Screenshot_4](Screenshots/Screenshot 4.png)
 
-Builds the app for production to the `build` folder.<br />
-It correctly bundles React in production mode and optimizes the build for the best performance.
+![Screenshot_5](Screenshots/Screenshot 5.png)
 
-The build is minified and the filenames include the hashes.<br />
-Your app is ready to be deployed!
+![Screenshot_6](Screenshots/Screenshot 6.png)
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
-
-### `yarn eject`
-
-**Note: this is a one-way operation. Once you `eject`, you can’t go back!**
-
-If you aren’t satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (Webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you’re on your own.
-
-You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/code-splitting
-
-### Analyzing the Bundle Size
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size
-
-### Making a Progressive Web App
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app
-
-### Advanced Configuration
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/advanced-configuration
-
-### Deployment
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/deployment
-
-### `yarn build` fails to minify
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify
+![Screenshot_7](Screenshots/Screenshot 7.png)
